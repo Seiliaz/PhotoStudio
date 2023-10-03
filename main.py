@@ -174,9 +174,7 @@ def edit():
     save(picture, imageFormat)
 
 
-# ? make a Graphical User Interface
-# ! make a Graphical User Interface
-# TODO: make a Graphical User Interface
+# make a Graphical User Interface
 win = Tk()
 win.title("Photo Studio")
 win.geometry("900x600")
